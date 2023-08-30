@@ -1,0 +1,451 @@
+{
+  "title": "Level A1",
+  "description": "This test estimates if your grammar level corresponds to A1 level. If you get 100% right answers it is higly likely you have A1 or higher in Grammar.",
+  "questions": [ 
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is <b>correct</b>?",
+        "incorrectAnswers": [
+          "I'm a doctor and my sister are a nurse.",
+          "I be a doctor and my sister are a nurse.",
+          "I am a doctor and my sister am a nurse."
+        ],
+        "correctAnswer": "I'm a doctor and my sister is a nurse."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Are you a student?",
+        "incorrectAnswers": [
+          "Yes, I are.",
+          "Yes, I'm.",
+          "Yes, I is."
+        ],
+        "correctAnswer": "Yes, I am."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+          "This is my glasses over there.",
+          "These are my glasses over there.",
+          "That is my glasses over there."
+        ],
+        "correctAnswer": "Those are my glasses over there."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+          "They like them dinner.",
+          "They like there dinner.",
+          "They like theirs dinner."
+        ],
+        "correctAnswer": "They like their dinner."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+          "Tom will help ours.",
+          "Tom will help our.",
+          "Tom will help for we."
+        ],
+        "correctAnswer": "Tom will help us."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+          "James spends much time learning French.",
+          "James spends many time learning French.",
+          "James spends a lot time learning French."
+        ],
+        "correctAnswer": "James spends a lot of time learning French."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+          "I eat fruits and vegetables every day.",
+          "I eat the fruit and vegetables every day.",
+          "I eat the fruit and the vegetables every day."
+        ],
+        "correctAnswer": "I eat fruit and vegetables every day."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+          "Helen has a long hair.",
+          "Helen has long hairs.",
+          "Helen has the long hair."
+        ],
+        "correctAnswer": "Helen has long hair."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+          "He has many interestings books.",
+          "He has many books interesting.",
+          "He has many interested books."
+        ],
+        "correctAnswer": "He has many interesting books."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+            "Linda live in New York.",
+            "Linda lives at New York.",
+            "Linda live on New York."
+        ],
+        "correctAnswer": "Linda lives in New York."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which answer is correct? Do you like tea?",
+        "incorrectAnswers": [
+            "Yes, I like.",
+            "Yes, I am.",
+            "Yes, I does."
+        ],
+        "correctAnswer": "Yes, I do."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which question is correct?",
+        "incorrectAnswers": [
+            "Where Michael is from?",
+            "Where from is Michael?",
+            "Where's is Michael from?"
+        ],
+        "correctAnswer": "Where is Michael from?"
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which question is correct?",
+        "incorrectAnswers": [
+            "How often you visit your granny?",
+            "How often visit you your granny?",
+            "How often you do visit your granny?"
+        ],
+        "correctAnswer": "How often do you visit your granny?"
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which question is correct?",
+        "incorrectAnswers": [
+            "She eats oranges never.",
+            "She never doesn't eat oranges.",
+            "She eats never oranges."
+        ],
+        "correctAnswer": "She never eats oranges."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which question is correct?",
+        "incorrectAnswers": [
+            "My wife name's Emma.",
+            "My wifes' name's Emma.",
+            "My wife's names Emma."
+        ],
+        "correctAnswer": "My wife's name's Emma."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+            "That shop is at the street's end.",
+            "That shop is in the end of the street.",
+            "That shop is in the street's end."
+        ],
+        "correctAnswer": "That shop is at the end of the street."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+            "The job interview is on 10 a.m. on Wednesday morning.",
+            "The job interview is at 10 a.m. at Wednesday morning.",
+            "The job interview is on 10 a.m. at Wednesday morning."
+        ],
+        "correctAnswer": "The job interview is at 10 a.m. on Wednesday morning."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+            "This online store is very popular in the Internet.",
+            "This online store is very popular at the Internet..",
+            "This online store is very popular into the Internet."
+        ],
+        "correctAnswer": "This online store is very popular on the Internet."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+            "Can you to play the guitar?",
+            "Do you can play the guitar?",
+            "Do you can to play the guitar?"
+        ],
+        "correctAnswer": "Can you play the guitar?"
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+            "What do you do now? - I'm listening to music.",
+            "What are you doing now? - I listen to music.",
+            "What do you do now? - I listen to music."
+        ],
+        "correctAnswer": "What are you doing now? - I'm listening to music."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+            "What do you do? - I'm being a doctor.",
+            "What are you doing? - I'm a doctor.",
+            "What are you doing? - I'm being a doctor."
+        ],
+        "correctAnswer": "What do you do? - I'm a doctor."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+            "You don't smoke. It's bad for your health.",
+            "Don't you smoke. It's bad for your health.",
+            "Let's smoke. It's bad for your health."
+        ],
+        "correctAnswer": "Don't smoke. It's bad for your health."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+            "Was you excited about the wedding? - Yes, I was!",
+            "Were you excited about the wedding? - Yes, I were!",
+            "Was you excited about the wedding? - Yes, I were!"
+        ],
+        "correctAnswer": "Were you excited about the wedding? - Yes, I was!"
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+            "Sorry, I forgeted to tell you.",
+            "Sorry, I forgotten to tell you.",
+            "Sorry, I forgoted to tell you."
+        ],
+        "correctAnswer": "Sorry, I forgot to tell you."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+            "They didn't liked the movie at all.",
+            "They liked not the movie at all.",
+            "They weren't liked the movie at all."
+        ],
+        "correctAnswer": "They didn't like the movie at all."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+            "She loves to travelling.",
+            "She loves to travel.",
+            "She loves travel."
+        ],
+        "correctAnswer": "She loves traveling."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+            "Would you like having dinner with us?",
+            "Would you like to have a dinner with us?",
+            "Would you like have dinner with us?"
+        ],
+        "correctAnswer": "Would you like to have dinner with us?"
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+            "Do you have got a car? - No, not now. But I had one.",
+            "Have you got a car? - No, not now. But I had got one.",
+            "Do you got a car? - No, not now. But I had one."
+        ],
+        "correctAnswer": "Have you got a car? - No, not now. But I had one."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+            "Can I have any water, please?",
+            "Can I have water, please?",
+            "Can I have a water, please?"
+        ],
+        "correctAnswer": "Can I have some water, please?"
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+            "There are a sofa and two armchairs in the room.",
+            "Their is a sofa and two armchairs in the room.",
+            "There were a sofa and two armchairs in the room."
+        ],
+        "correctAnswer": "There is a sofa and two armchairs in the room."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+            "There is a concert tomorrow. There will be amazing!",
+            "There is a concert tomorrow. Will be amazing!",
+            "It is a concert tomorrow. It will be amazing!"
+        ],
+        "correctAnswer": "There is a concert tomorrow. It will be amazing!"
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+            "Sarah is taller that them.",
+            "Sarah is taller than they.",
+            "Sarah is more taller than them."
+        ],
+        "correctAnswer": "Sarah is taller than them."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+            "Barcelona is one of most popular tourist destinations.",
+            "Barcelona is one of the most popularest tourist destinations.",
+            "Barcelona is one of the popularest tourist destinations."
+        ],
+        "correctAnswer": "Barcelona is one of the most popular tourist destinations."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+            "I shall help you with your heavy suitcase. Shall we go?",
+            "I will help you with your heavy suitcase. Will we go?",
+            "I shall help you with your heavy suitcase. Will we go?"
+        ],
+        "correctAnswer": "I will help you with your heavy suitcase. Shall we go?"
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+            "We will to visit Paris next September.",
+            "We will visit Paris next September.",
+            "We shall visit Paris next September."
+        ],
+        "correctAnswer": "We are going to visit Paris next September."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+            "They speak English very good.",
+            "They speak English very goodly.",
+            "They speak English very best."
+        ],
+        "correctAnswer": "They speak English very well."
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sentence is correct?",
+        "incorrectAnswers": [
+            "Jane didn't buy food so she forgot her credit card.",
+            "Jane didn't buy food and she forgot her credit card.",
+            "Jane didn't buy food but she forgot her credit card."
+        ],
+        "correctAnswer": "Jane didn't buy food because she forgot her credit card."
+      }
+    ] 
+}
+

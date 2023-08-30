@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "id": "20230814-1749",
+    "creationDate": "2023-08-14",
+    "description": "This page provide the overview of English grammar."
+  },    
+  "content": [
+    {
+      "kind": "plain",
+      "h1": "English Grammar Overview",
+      "text": "In this section we'll give an overview of grammar."
+    },
+    {
+      "kind": "plain",
+      "text": "Grammar is one of the most important areas to cover when learning a language.",
+      "img": "/lr/data/pages/grammar/grammar2.png"
+    },
+    {
+      "kind": "plain",
+      "text": "Grammar plays a critical role when you need to express yourself. It helps to build sentences acording to the rules. So, every person speaking in English will be able to understand you. One of the first steps is to understand the grammar structure. It will allow you to quickly get the whole picture and plan your learning."
+    },
+    {
+      "kind": "note",
+      "text": "Note: If you create a good leaning plan your learning will be more effective. To start think about your goal. Why do you need to learn English? How are you planning to use it? Answering these questions will allow you to keep your motivation. After setting a goal and undestanding why you need a language think about the timelines."
+    },
+    {
+      "kind": "plain",
+      "text": "In Table 1 you can see Present tenses."
+    },
+    {
+      "kind": "table",
+      "table": {
+        "title": "Table 1. Present tenses",
+        "headers": [
+          {"title": "Tense"},
+          {"title": "Usage"},
+          {"title": "Example"}
+        ],
+        "rows": [
+          {"cols": [
+            {"value": "Present Simple"},
+            {"value": "Expresses ordinary actions repeatin on a daily basis."},
+            {"value": "I read books."}
+          ]
+          },
+          {"cols": [
+            {"value": "Present Continious"},
+            {"value": "Expresses what you are doing now."},
+            {"value": "I am reading a book."}
+          ]
+          },
+          {"cols": [
+            {"value": "Present Perfect"},
+            {"value": "Expresses the result of an action."},
+            {"value": "I have read a book this month."}
+          ]
+          }
+        ]
+      }
+    },
+    {
+      "kind": "plain",
+      "text": "Check the following dialog between two people and answer the questions below."
+    },
+    {
+      "kind": "plain",
+      "img": "data/pages/grammar/dialog.jpg"
+    }
+  ]
+}

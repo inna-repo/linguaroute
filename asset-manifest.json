@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/linguaroute/static/css/main.073c9b0a.css",
-    "main.js": "/linguaroute/static/js/main.82b622ff.js",
+    "main.css": "/linguaroute/static/css/main.3e19e6a6.css",
+    "main.js": "/linguaroute/static/js/main.dd801c47.js",
     "static/js/787.3e1f1f83.chunk.js": "/linguaroute/static/js/787.3e1f1f83.chunk.js",
-    "static/media/logo.svg": "/linguaroute/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/lr-logo.jpg": "/linguaroute/static/media/lr-logo.3826292d89203eeb2793.jpg",
     "index.html": "/linguaroute/index.html",
-    "main.073c9b0a.css.map": "/linguaroute/static/css/main.073c9b0a.css.map",
-    "main.82b622ff.js.map": "/linguaroute/static/js/main.82b622ff.js.map",
+    "main.3e19e6a6.css.map": "/linguaroute/static/css/main.3e19e6a6.css.map",
+    "main.dd801c47.js.map": "/linguaroute/static/js/main.dd801c47.js.map",
     "787.3e1f1f83.chunk.js.map": "/linguaroute/static/js/787.3e1f1f83.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.82b622ff.js"
+    "static/css/main.3e19e6a6.css",
+    "static/js/main.dd801c47.js"
   ]
 }
